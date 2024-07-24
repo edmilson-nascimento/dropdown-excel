@@ -14,3 +14,8 @@ Eu acho que isso no final das contas, vai virar um OLE. Não sei ainda se pela c
 
 
 ## Solução
+
+Usando o modelo em anexo ~se caso isso funcionar ne?!~, a solução segue os passos abaixo:
+- Criar os objetos
+- criar uma lista com os itens desejados
+- informar a lista como itens para validação da celula
